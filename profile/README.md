@@ -32,3 +32,6 @@
     - Dado una consulta hacer expancio de consulta apoyado en el thesaurus y recuperar los textos mas relevantes **(SRI)**
     - IA? Se puede diseñar un modelo para que clasifique al SRI?
     - IA? Con los textos relevantes se puede generar un resume? Y tiene sentido reconocer sentimientos en el resumen 
+
+## 4- Artículo de Periodismo de Datos y posicionamiento del repo
+  - Usar las técnicas de SEO para ganar posicionamiento del artículo y de esta organizacion y sus repos **(SRI)**  
