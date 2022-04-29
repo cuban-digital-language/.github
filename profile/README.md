@@ -22,16 +22,13 @@
     - IA❓ Un modelo que se aprenda los distintos corpus y dada un error diga la palabra real?
 
 ## 3- Análisis de texto:
-  - Idea inicial:
-    - Generar comentarios sobre un tema **(IA🧠💻)** 
-    - IA❓ Tiene sentido reconocer sentimientos en el comentario generado? 
-    - Determinar dado un tema la estadística sobre los comentarios generados
-  - Segunda Idea:
-    - Aplicar un MRI sobre el corpus de todos los textos recolectados **(SRI🔍📰)**
-    - Con la información de la RAE, los diminutivos, las faltas y las palabras en ingles generar un thesaurus **(SRI🔍📰)**
-    - Dado una consulta hacer expancio de consulta apoyado en el thesaurus y recuperar los textos mas relevantes **(SRI🔍📰)**
-    - IA❓ Se puede diseñar un modelo para que clasifique al SRI?
-    - IA❓ Con los textos relevantes se puede generar un resume? Y tiene sentido reconocer sentimientos en el resumen 
+   - Aplicar un MRI (Modelo de Recuperación de Información) sobre el corpus de todos los textos recolectados **(SRI🔍📰)**
+   - Con la información de la RAE, los diminutivos, las faltas y las palabras en ingles generar un `thesaurus` **(SRI🔍📰)**
+   - Dado una consulta hacer expanción de consulta apoyado en el `thesaurus` y recuperar los textos más relevantes **(SRI🔍📰)**
+   - Dado el corpus de comentarios automatizar la generación de nuevos comentarios **(IA🧠💻)**
+   - Mezclar los comentarios generados con los recuperados y proponer al lector detectar la IA **(PD 📰🧑🏿‍💻)**
+   - Obterner retroalimentación del juego tanto para el SRI como para la IA
+   - Empleando detección de contenidos y clustering generar curpos de prueba para evaluar el SRI **(IA🧠💻)**  
 
 ## 4- Artículo de Periodismo de Datos y posicionamiento del repo
   - Usar las técnicas de SEO para ganar posicionamiento del artículo y de esta organizacion y sus repos **(SRI🔍📰)**  
