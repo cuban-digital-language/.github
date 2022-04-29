@@ -28,7 +28,7 @@
    - Dado el corpus de comentarios automatizar la generación de nuevos comentarios `(IA🧠💻)`
    - Mezclar los comentarios generados con los recuperados y proponer al lector detectar la **IA** `(PD 📰🧑🏿‍💻)`
    - Obterner retroalimentación del juego tanto para el **SRI** como para la **IA**
-   - Empleando detección de contenidos y clustering generar curpos de prueba para evaluar el **SRI** `**(IA🧠💻)**`  
+   - Empleando detección de contenidos y clustering generar curpos de prueba para evaluar el **SRI** `(IA🧠💻)`  
 
 ## 4- Artículo de Periodismo de Datos y posicionamiento del repo
-  - Usar las técnicas de **SEO** para ganar posicionamiento del artículo y de esta organizacion y sus repos `**(SRI🔍📰)**`  
+  - Usar las técnicas de **SEO** para ganar posicionamiento del artículo y de esta organizacion y sus repos `(SRI🔍📰)`  
