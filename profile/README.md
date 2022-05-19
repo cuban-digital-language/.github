@@ -8,7 +8,7 @@
     - Facebook (Scrapper) ✅
     - Instagram
     - Whatsapp
-    - Telegram
+    - Telegram ✅
     - Revolico
   - Corpus de la RAE (pyrae❓)
   
